@@ -6,4 +6,4 @@ This is a CLI app which tests your knowledge on Django, one of the best python f
 The app show your score.
 
 Want to play this game?
-Click here to play it!
+[Click here]() to play it!
